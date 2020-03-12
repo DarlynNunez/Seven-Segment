@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\bin\Debug\Nunez.SevenSegment.exe.config
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\bin\Debug\Nunez.SevenSegment.exe
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\bin\Debug\Nunez.SevenSegment.pdb
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\bin\Debug\Nunez.SevenSegment.xml
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\obj\Debug\Nunez.SevenSegment.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\obj\Debug\Nunez.SevenSegment.Form1.resources
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\obj\Debug\Nunez.SevenSegment.Resources.resources
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\obj\Debug\Nunez.SevenSegment.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\obj\Debug\Nunez.SevenSegment.exe
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\obj\Debug\Nunez.SevenSegment.xml
+C:\Users\Administrator\source\repos\Nunez.SevenSegment\Nunez.SevenSegment\obj\Debug\Nunez.SevenSegment.pdb
